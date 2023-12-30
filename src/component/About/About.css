@@ -1,0 +1,16 @@
+.about{
+    margin: 30px;
+
+}
+
+.about > h1{
+    font-size: 20px;
+    margin: 20px;
+}
+
+.about div > p {
+    line-break: auto;
+    width: 50%;
+    margin: 20px;
+}
+

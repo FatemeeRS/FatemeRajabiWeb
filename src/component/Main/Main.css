@@ -1,0 +1,84 @@
+.main-style {
+  display: flex;
+}
+.main-style > div {
+    margin-top: 0;
+  display: flex;
+  margin: auto;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.slef-informetion {
+  width: 50%;
+  padding-bottom: 30%;
+}
+
+.main-image {
+  border-radius: 15px;
+  width: 200px;
+  height: 200px;
+  margin: 20px;
+}
+
+.title {
+  margin-left: 150px;
+  margin-bottom: 20px;
+  font-size: 40px;
+}
+
+.paragraph {
+  margin-left: 100px;
+}
+
+.black-btn {
+  background-color: #000000;
+  color: #ffffff;
+  padding: 15px;
+  margin: 20px 0;
+  width: 120px;
+  border-radius: 50px;
+  margin: 20px;
+}
+
+.black-btn:hover {
+  background-color: #ffffff;
+  color: #000000;
+  cursor: pointer;
+}
+
+.conect {
+  display: flex;
+  margin: auto;
+
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.conect > h2 {
+  line-break: auto;
+  font-size: 40px;
+  width: 35%;
+  margin: 30px;
+}
+
+.conect > div {
+  display: flex;
+  margin: auto;
+  align-items: start;
+  width: 40%;
+  border-bottom: 1px solid #bbb8b8c9;
+  padding-bottom: 20px;
+}
+
+.experince {
+  margin: 20px;
+  width: 40%;
+}
+
+.experince > h4{
+    font-size: 18px;
+    font-weight: 300;
+}

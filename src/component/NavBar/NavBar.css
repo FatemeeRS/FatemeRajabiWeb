@@ -1,0 +1,19 @@
+.list-style{
+    display: flex;
+}
+
+.list-style-item{
+    border: none;
+    margin: 10px;
+    padding: 10px;
+    color: #686463;
+    font-size: 20px;
+}
+
+.list-style-item:hover{
+    font-size: 25px;
+    cursor: pointer;
+    color: #695d5d;
+    
+
+}

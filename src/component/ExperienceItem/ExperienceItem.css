@@ -1,0 +1,40 @@
+.work-experience {
+  display: flex;
+  flex-direction: row;
+  border: 1px solid #bbb8b8c9;
+  background-color: white;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 50px;
+  justify-content: space-between;
+  width: 90%;
+
+
+}
+.logo {
+  width: 50px;
+  height: 50px;
+  border-radius: 100%;
+  margin: 5px;
+  border: 1px solid #bbb8b8c9;
+}
+
+.work-experience div {
+    align-items: start;
+  margin: 5px;
+  width: 50%;
+}
+
+.work-experience h3 {
+    margin-bottom: 5px;
+  font-size: 15px;
+}
+
+.work-experience h4 {
+  font-size: 12px;
+}
+
+.work-experience p{
+    font-size: 10px;
+    margin-top: 20px;
+}

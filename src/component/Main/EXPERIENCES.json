@@ -1,0 +1,47 @@
+[
+    {
+        "id": "CompanyName_div_bv3a3flv427",
+        "name": "gajMarket",
+        "CompanyName": "GajMarket", 
+        "jobTitle":  "FrontEnd Developer",
+        "logo":"https://dummyimage.com/40x40/b037b0/323bba.png",
+        "startDate": " Dec 2023",
+        "endDate": "Present"
+    },
+    {
+        "id": "CompanyName_div_bv3a3flv425",
+        "name": "gajino",
+        "CompanyName": "Gajino", 
+        "jobTitle":  "FrontEnd Developer",
+        "logo":"https://dummyimage.com/40x40/b037b0/323bba.png",
+        "startDate": "Mar 2022",
+        "endDate": "Dec 2023"
+    },
+    {
+        "id": "CompanyName_div_bv3a3flv428",
+        "name": "gajino",
+        "CompanyName": "Gajino", 
+        "jobTitle":  "Content ",
+        "logo":"https://dummyimage.com/40x40/22bfd1/32b880.png",
+        "startDate": "Sep2020",
+        "endDate": "Mar 2022"
+    },
+    {
+        "id": "CompanyName_div_bv3a3flv430",
+        "name": "holiday",
+        "CompanyName": "Holiday", 
+        "jobTitle":  "Wordpress",
+        "logo":"https://dummyimage.com/40x40/2ca61e/3c5c4e.png",
+        "startDate": "Sep2019",
+        "endDate": "May 2020"
+    },
+    {
+        "id": "CompanyName_div_bv3a3flv401",
+        "name": "Khoshkpak",
+        "CompanyName": "Khoshkpak", 
+        "jobTitle":  "officer & salaried",
+        "logo":"https://dummyimage.com/40x40/c2a746/a7e336.png",
+        "startDate": "Mar2017",
+        "endDate": "Feb2017"
+    }
+]

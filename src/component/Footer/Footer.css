@@ -1,0 +1,52 @@
+.footer{
+     position: relative;
+    bottom: 20px;
+    display: flex;
+    margin: auto;
+    border: 1px solid #807f7f8f;
+    width: 50%;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 60px;
+    padding: 10px;
+    background-color: #fff;
+
+   
+ 
+
+}
+
+.footer > h5{
+    align-items: center;
+    margin: 10px;
+    color: #807f7f8f;
+}
+
+.light , .dark{
+    /* background-color: #000000;
+    color: #ffffff; */
+    border: 1px solid #807f7f8f;
+    padding: 15px;
+    margin: 20px 0;
+    width: 120px;
+    border-radius: 50px;
+    margin: 20px;
+}
+
+.light{
+    color: #e4d1bb;
+    background-color:#bba892 ;
+    
+}
+
+.dark{
+    color: #bba892;
+    background-color: #e4d1bb;
+}
+
+.light:hover ,.dark:hover{
+    cursor: pointer;
+    font-weight: bold;
+    border: 1px solid #807f7fd5;
+    
+}
